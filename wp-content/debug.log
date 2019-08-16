@@ -1,0 +1,7 @@
+[29-Nov-2018 04:05:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function home_title() in /Users/AndrewSabato/Desktop/Stuff/Designs/CLIENTS/TDC/Website/TDC/wp-content/themes/tdc2018/front-page.php:13
+Stack trace:
+#0 /Users/AndrewSabato/Desktop/Stuff/Designs/CLIENTS/TDC/Website/TDC/wp-includes/template-loader.php(74): include()
+#1 /Users/AndrewSabato/Desktop/Stuff/Designs/CLIENTS/TDC/Website/TDC/wp-blog-header.php(19): require_once('/Users/AndrewSa...')
+#2 /Users/AndrewSabato/Desktop/Stuff/Designs/CLIENTS/TDC/Website/TDC/index.php(17): require('/Users/AndrewSa...')
+#3 {main}
+  thrown in /Users/AndrewSabato/Desktop/Stuff/Designs/CLIENTS/TDC/Website/TDC/wp-content/themes/tdc2018/front-page.php on line 13
